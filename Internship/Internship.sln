@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internship", "Internship\Internship.csproj", "{8D46CF71-CDA3-4B37-BD6C-10BA340C34B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D46CF71-CDA3-4B37-BD6C-10BA340C34B0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8D46CF71-CDA3-4B37-BD6C-10BA340C34B0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8D46CF71-CDA3-4B37-BD6C-10BA340C34B0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8D46CF71-CDA3-4B37-BD6C-10BA340C34B0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/Internship/Internship/bin/Debug/Internship.exe
+/Users/nikitamakeev/Projects/Internship/Internship/bin/Debug/Internship.pdb
+/Users/nikitamakeev/Projects/Internship/Internship/obj/Debug/Internship.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/Internship/Internship/obj/Debug/Internship.exe
+/Users/nikitamakeev/Projects/Internship/Internship/obj/Debug/Internship.pdb
